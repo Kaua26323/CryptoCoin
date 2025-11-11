@@ -1,29 +1,28 @@
-.errorArea{
-    width: 100%;
-    height: calc(100vh - 180px);
-    padding-top: 150px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.errorArea {
+  width: 100%;
+  height: calc(100vh - 180px);
+  padding-top: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.eNumber{
-    font-size: 120px;
-    color: #cc0101;
+.eNumber {
+  font-size: 120px;
+  color: #cc0101;
 }
 
-.eString{
-    font-size: 50px;
+.eString {
+  font-size: 50px;
 }
 
-.backHome{
-    background-color: #30beff;
-    padding: 10px 25px;
-    margin-top: 10px;
-    color: #000;
-    font-weight: bold;
-    font-size: 18px;
-    border: 0;
-    border-radius: 5px;
-
+.backHome {
+  background-color: #30beff;
+  padding: 10px 25px;
+  margin-top: 10px;
+  color: #000;
+  font-weight: bold;
+  font-size: 18px;
+  border: 0;
+  border-radius: 5px;
 }

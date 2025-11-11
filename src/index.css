@@ -1,26 +1,25 @@
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: Arial, Helvetica, sans-serif ;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
 
-body{
+body {
   width: 100%;
   height: 100vh;
   margin: 0 auto;
   background-color: #18171c;
-  color: #FFF;
+  color: #fff;
 }
 
-a{
+a {
   text-decoration: none;
-  color: #FFF;
+  color: #fff;
 }
 
-button{
+button {
   cursor: pointer;
   border: 0;
-
 }

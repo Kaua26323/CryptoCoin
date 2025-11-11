@@ -1,33 +1,33 @@
-.mainArea{
-    width: 100%;
-    margin-top: 30px;
+.mainArea {
+  width: 100%;
+  margin-top: 30px;
 }
 
-.coinInfo{
-    max-width: 400px;
-    margin: 15px auto;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    gap: 10px;
-    border-radius: 5px;
-    background-color: #0f0f0f;
+.coinInfo {
+  max-width: 400px;
+  margin: 15px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 10px;
+  border-radius: 5px;
+  background-color: #0f0f0f;
 }
 
-.imgLogo{
-    width: 60px;
-    transition: all 1s;
+.imgLogo {
+  width: 60px;
+  transition: all 1s;
 }
 
-.imgLogo:hover{
-    scale: 1.4;
-    transform: rotate(360deg);
+.imgLogo:hover {
+  scale: 1.4;
+  transform: rotate(360deg);
 }
 
-.Profit{
-    color: #12d30b;
+.Profit {
+  color: #12d30b;
 }
-.Loss{
-    color: #ff0f0f;
+.Loss {
+  color: #ff0f0f;
 }
